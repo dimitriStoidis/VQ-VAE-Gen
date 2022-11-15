@@ -33,6 +33,7 @@ This work is based on:
     
     
 ## Cite
+```
 @inproceedings{stoidis21_interspeech,
   author={Dimitrios Stoidis and Andrea Cavallaro},
   title={{Protecting Gender and Identity with Disentangled Speech Representations}},
@@ -41,6 +42,7 @@ This work is based on:
   pages={1699--1703},
   doi={10.21437/Interspeech.2021-2163}
 }
+```
 
 ## Contact
 dimitrios.stoidis@qmul.ac.uk
