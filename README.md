@@ -19,3 +19,28 @@ Install pip dependencies:
     ```
  ## Evaluation
     
+
+
+## References
+
+This work is based on:
+
+1.  Aaron van den Oord, Yazhe Li, and Oriol Vinyals. ["Representation learning with contrastive predictive coding."](https://arxiv.org/abs/1807.03748)
+    arXiv preprint arXiv:1807.03748 (2018).
+
+2.  Aaron van den Oord, and Oriol Vinyals. ["Neural discrete representation learning."](https://arxiv.org/abs/1711.00937)
+    Advances in Neural Information Processing Systems. 2017.
+    
+    
+## Cite
+@inproceedings{stoidis21_interspeech,
+  author={Dimitrios Stoidis and Andrea Cavallaro},
+  title={{Protecting Gender and Identity with Disentangled Speech Representations}},
+  year=2021,
+  booktitle={Proc. Interspeech 2021},
+  pages={1699--1703},
+  doi={10.21437/Interspeech.2021-2163}
+}
+
+## Contact
+dimitrios.stoidis@qmul.ac.uk
